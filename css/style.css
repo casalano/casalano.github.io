@@ -48,3 +48,8 @@ a:hover {
     background-color: #f68817;
 }
 
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+}
+
