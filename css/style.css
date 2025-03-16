@@ -1,0 +1,50 @@
+html {
+  font-size: 125%;
+}
+
+header {
+	padding: 154px 0 100px;
+}
+
+section {
+	padding: 150px 0;
+}
+
+body {
+	font-family: 'Sniglet', sans-serif;
+	text-align: justify;
+}
+
+h2 {
+	font-family: 'Chewy', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+	font-size: 38px;
+	color: #f68817;
+}
+
+a { 
+	color: #006a2e; 
+	text-decoration: none;
+} 
+
+a:hover { 
+	color: #c31d1f; 
+} 
+	
+.mybg-menu {
+    background-color: #f68817; 
+}
+
+.mybg-light {
+    background-color: #fff0cc;
+}
+
+.mybg-dark {
+    background-color: #ffdd8a;
+}
+
+.mybg-verydark {
+    background-color: #f68817;
+}
+
